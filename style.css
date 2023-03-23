@@ -1,0 +1,32 @@
+@charset "utf-8";
+body{
+    text-align: center;
+    background: rgb(233, 10, 10) (150, 150, 350);
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(225, 118, 117);
+}
+.somar{
+    max-width: 306px;
+    background-color: rgb(350, 150, 150);
+    border-radius: 50px;
+    padding: 100px;
+
+}
+
+#somar{
+    width: 100%;
+    height: 60px;
+    font-size: 19px;
+    text-align: right;
+    margin-bottom: 40px;
+    padding: 100px;
+   background-color:  rgb(300, 15=80, 4=50);
+    background: rgb(49, 19, 19) (150, 150, 350);
+    border: none;
+    box-sizing: border-box;
+}
